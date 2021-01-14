@@ -56,12 +56,7 @@
               <p>Edukasi</p>
             </a>
           </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="{{ url('/surat') }}">
-              <i class="material-icons">book</i>
-              <p>Kotak Surat</p>
-            </a>
-          </li>
+          
         </ul>
       </div>
     </div>
@@ -116,8 +111,7 @@
       <footer class="footer">
         <div class="container-fluid">
           <div class="copyright float-right" id="date">
-            , made with <i class="material-icons">favorite</i> by
-            <a href="https://www.creative-tim.com" target="_blank">Ayu Rohmah </a>
+            
           </div>
         </div>
       </footer>

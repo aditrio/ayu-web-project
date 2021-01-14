@@ -18,7 +18,7 @@
             </h3>
 
             <br> <br>
-            <h3 class="text-center text-success"><b>KOTAK SURAT FORM</b></h3>
+           <!--  <h3 class="text-center text-success"><b>KOTAK SURAT FORM</b></h3>
             
             <div class="container">
                 <div class="card">
@@ -55,7 +55,7 @@
                 </div>
                 
                 
-            </div>
+            </div> -->
 
 
 
